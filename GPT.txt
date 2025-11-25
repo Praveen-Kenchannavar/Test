@@ -1,0 +1,4 @@
+What is cyber security and explain CIA and AAA principles?
+
+cyberseurity is refers to the process of protecting comuters and moblie, computer and data from untherrized 
+access attcak, damage or a thept.
